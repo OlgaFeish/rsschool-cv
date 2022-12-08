@@ -22,3 +22,18 @@ function evenOrOdd(number) {
   }
 }
 ```
+
+## Work experience
+* Web designer (Tilda): 2021-Present
+* Personal assistant: 2020-2021
+* Graphic designer (freelance): 2018-2020
+* Server: 2016-2017
+* Camp counselor: 2013-2018
+ 
+## Education
+Saint Petersburg State University, Sociology, 2015
+ 
+## Languages
+* English: Upper-Intermediate
+* Russian: Native
+* French: B2
