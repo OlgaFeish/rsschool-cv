@@ -4,7 +4,7 @@
 * **Location:** Saint Petersburg, Russia
 * **Phone:** +7(921)423-50-64
 * **E-mail:** olga.feish@gmail.com
-* **GitHub:** olgafeish
+* **GitHub:** OlgaFeish
 * **Discord:** olgafeish
 
 ## About me
